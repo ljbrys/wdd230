@@ -16,7 +16,7 @@ header {
     margin: 1rem auto;
     border: 1px solid #bbb;
     padding: .5rem;
-    background-color:  #eee;
+    background-color:  #0B4F6C;
     display: grid;
     grid-template-columns: 200px 1fr;
     align-items: center;
@@ -27,4 +27,14 @@ h1{
 header img{
     width: 100%;
     height: auto;
+}
+footer{
+    margin: 1rem auto;
+    border: 1px solid #bbb;
+    padding: .5rem;
+    background-color:  #01BAEF;
+    display: grid;
+    grid-template-columns: 200px 1fr;
+    align-items: center;
+    text-align: center;
 }
