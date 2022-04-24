@@ -1,0 +1,20 @@
+*{
+    margin: o;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    font-size:large16px;
+}
+
+header, main, footer {
+    max-width: 700px;
+    margin: 0 auto;
+}
+header {
+    margin: 1rem;
+    border: 1px solid #bbb;
+    padding: .5rem;
+    background-color:  #eee;
+}
