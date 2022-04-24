@@ -21,7 +21,9 @@ header {
     grid-template-columns: 200px 1fr;
     align-items: center;
 }
-
+h1{
+    padding: 5rem;
+}
 header img{
     width: 100%;
     height: auto;
