@@ -24,8 +24,7 @@ header {
     align-items: center;
 }
 h1{
-    padding: 5rem; 
-    font-size: 2.5rem;
+    font-size: 1.5rem;
     margin: 0.15rem;
 
 }
@@ -38,6 +37,7 @@ h2 {
 header img{
     width: 100%;
     height: auto;
+    float: right;
 }
 footer{
     margin: 1rem auto;
