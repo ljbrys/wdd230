@@ -21,7 +21,7 @@ header,footer{
     display: grid;
 }
 
-website_header{
+.website_header{
     display: grid;
     background-color: coral;
 }
