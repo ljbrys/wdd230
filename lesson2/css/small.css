@@ -7,3 +7,14 @@ body{
     font-family: 'Open Sans', sans-serif;
     font-size: large16px;
 }
+main{
+    display: flex;
+}
+header,footer{
+    margin: 1 rem auto;
+    background-color: crimson;
+    display: grid;
+    grid-template-columns: auto;
+    align-items: center;
+    display:
+}
