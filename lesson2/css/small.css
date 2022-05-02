@@ -20,3 +20,7 @@ header,footer{
     align-items: center;
     display:
 }
+website_header{
+    display: grid;
+    background-color: coral;
+}
