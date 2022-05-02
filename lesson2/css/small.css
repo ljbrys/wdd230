@@ -27,4 +27,8 @@ header,footer{
     border: 2px; color: black;
     padding: 5%;
     margin: .5em;
+
+}
+.website{
+    width: 33%;
 }
