@@ -25,10 +25,12 @@ header,footer{
     display: grid;
     background-color: coral;
     border: 2px; color: black;
-    padding: 5%;
+    padding: 20px;
     margin: .5em;
 
 }
-.website{
+
+.img{
     width: 33%;
+
 }
