@@ -24,4 +24,7 @@ header,footer{
 .website_header{
     display: grid;
     background-color: coral;
+    border: 2px; color: black;
+    padding: 5%;
+    margin: .5em;
 }
