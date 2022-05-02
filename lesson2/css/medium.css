@@ -12,6 +12,10 @@
     header, footer {
      border-radius: 10px;
     }
+    main{
+        display: flex;
+        flex-direction: column;
+    }
     header img{
 
         float: right;
